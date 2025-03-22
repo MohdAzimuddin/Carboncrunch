@@ -1,5 +1,5 @@
 import logo from "./image/carboncrunch.png";
-
+ 
 export const CarboncrunchNav = () => {
   return (
     <nav className="flex flex-col gap-4 lg:gap-2 lg:flex-row items-center justify-between p-6 mx-4 md:mx-8">
