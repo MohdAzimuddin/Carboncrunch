@@ -1,5 +1,5 @@
 # CarbonCrunch
-
+ 
 CarbonCrunch is a sustainability-focused web application designed as an assignment to showcase a modern and interactive home page UI. It features a responsive navigation bar, engaging hover animations on buttons and nav links, and smooth transitions for an enhanced user experience. Built using React, Tailwind CSS, and Framer Motion, this project highlights the foundational UI elements of sustainability platformm.
 
 ## 🚀 Live Preview
