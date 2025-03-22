@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/MohdAzimuddin/Carboncrunch.git
    cd carboncrunch
    ```
 
