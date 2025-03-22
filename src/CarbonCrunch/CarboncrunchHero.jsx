@@ -1,6 +1,6 @@
 import { CarboncrunchNav } from "./CarboncrunchNav";
 import { motion } from "framer-motion";
-
+ 
 export const CarbonCrunch = () => {
   const variants = {
     hidden: { opacity: 0, y: 50 }, // Initial state: invisible and slightly shifted down
