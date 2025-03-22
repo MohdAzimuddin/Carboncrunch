@@ -4,7 +4,7 @@ CarbonCrunch is a sustainability-focused web application designed as an assignme
 
 ## 🚀 Live Preview
 The project is deployed and available for live preview:
-🔗 [Live Demo](#) 
+🔗 [Live Demo](https://carboncrunch-alpha.vercel.app/) 
 
 ## 📌 Features
 - Responsive navigation bar
